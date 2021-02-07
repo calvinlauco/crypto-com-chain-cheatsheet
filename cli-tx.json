@@ -1,3 +1,4 @@
+```
 chain-maind query bank balances tcro1j7pej8kplem4wt50p4hfvndhuw5jprxxn5625q --node=https://testnet-croeseid.crypto.com:26657
 
 tcrocnclconspub1zcjduepqnkh82r7yvc5he94wya7j8tpdwuvql60afkthzv356ye6k9t2h2psr3u067
@@ -32,5 +33,4 @@ chain-maind tx sign unsigned-tx.json \
     --from=ledger-cosmos-0 \
     --sign-mode=legacy-amino --offline \
     --chain-id=testnet-croeseid-1 --keyring-backend=test > signed.json
-
-tcrocncl1j7pej8kplem4wt50p4hfvndhuw5jprxxxtenvr
+```
